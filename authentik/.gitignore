@@ -1,0 +1,6 @@
+media/
+custom-templates/
+certs/
+database/
+redis/
+.env
