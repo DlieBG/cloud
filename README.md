@@ -17,3 +17,6 @@ Edit `/etc/docker/daemon.json`:
 - Authentik
   - HTTP: 9000
   - HTTPS: 9443
+- Headscale
+  - HTTP: 8010
+  - Metrics: 8011
