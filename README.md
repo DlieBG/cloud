@@ -20,3 +20,6 @@ Edit `/etc/docker/daemon.json`:
 - Headscale
   - HTTP: 8010
   - Metrics: 8011
+- Nextcloud
+  - Configuration: 8012
+  - Apache Proxy: 8014
